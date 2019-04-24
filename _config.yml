@@ -1,5 +1,5 @@
 title: Bin Bi
-url: "https://binbi.github.io"
+url: "https://bin-bi.github.io"
 baseurl: "/"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
