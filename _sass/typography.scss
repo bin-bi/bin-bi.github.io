@@ -66,17 +66,20 @@
     }
     .talk-table {
         border: none !important;
-        border-collapse:collapse;
+        border-spacing: 0 !important;
+        border-collapse: collapse;
         td, th {
-            border:none !important;
+            border: none !important;
+            padding: 0 !important;
+            margin: 0 !important;
         }
         tr td:first-child {
             text-align: left;
-            width: 66%;
+            width: 75%;
         }
         tr td:last-child {
             text-align: right;
-            width: 34%;
+            width: 25%;
         }
     }
 }
