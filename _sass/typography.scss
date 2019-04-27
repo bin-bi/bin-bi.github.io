@@ -67,6 +67,9 @@
     .talk-table {
         border: none !important;
         border-collapse:collapse;
+        tr:first-child td {
+            border-top: 0;
+        }
         tr td:first-child {
             width: 300px;
             border: 0;
