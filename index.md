@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Research Internships
 
-Microsoft Research Redmond, WA | Ad Click Prediction, Knowledge Graph Mining | 12/2012 - 3/2013, 6/2013 - 9/2013
+Microsoft Research Redmond, WA | Ad Click Prediction, Knowledge Graph Mining | 12/2012 - 3/2013,<br/>6/2013 - 9/2013
 Microsoft Research Cambridge, UK | Machine Learning, Social Network Analysis | 10/2012 - 12/2012
 IBM Research Almaden, CA | Large-scale Data Mining, Social Media Analysis | 7/2012 - 9/2012
 Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
@@ -52,7 +52,7 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ---
 
-## Selected Media Coverage
+## Media Coverage
 
 [<img class="icon" src="pdf.png">Inferring the Demographics of Search Users - Social Data Meets Search Queries](http://www2013.w3c.br/proceedings/p131.pdf) by Bin Bi, Milad Shokouhi, Michal Kosinski, and Thore Graepel, Proceedings of ACM International Conference on World Wide Web (WWW), 2013.
 
