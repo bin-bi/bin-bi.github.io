@@ -67,19 +67,13 @@
     .talk-table {
         border: none !important;
         border-collapse:collapse;
-        tr:first-child td {
-            border-top: 0;
-        }
-        tr:last-child td {
-            border-bottom: 0;
-        }
         tr td:first-child {
             width: 300px;
-            border-left: 0;
+            border: 0;
         }
         tr td:last-child {
             width: 100px;
-            border-right: 0;
+            border: 0;
         }
     }
 }
