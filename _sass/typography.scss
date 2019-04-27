@@ -64,4 +64,12 @@
         text-align: center;
         width: 100%;
     }
+    .talk-table {
+        tr td:first-child {
+            width: 100px;
+        }
+        tr td:last-child {
+            width: 300px;
+        }
+    }
 }

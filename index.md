@@ -41,7 +41,6 @@ Microsoft Research Redmond, WA | Ad Click Prediction, Knowledge Graph Mining | 1
 Microsoft Research Cambridge, UK | Machine Learning, Social Network Analysis | 10/2012 - 12/2012
 IBM Research Almaden, CA | Large-scale Data Mining, Social Media Analysis | 7/2012 - 9/2012
 Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
-{: .my-class }
 
 ---
 
@@ -61,4 +60,5 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ## Selected Talks & Presentations
 
-* *Detecting and Typing Entities via CRF and Deep Neural Networks* . . . . . . . . . Microsoft Research, 5/2016
+* *Detecting and Typing Entities via CRF and Deep Neural Networks* | Microsoft Research, 5/2016
+{: .talk-table }
