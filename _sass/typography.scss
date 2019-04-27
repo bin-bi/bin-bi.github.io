@@ -68,7 +68,7 @@
         border: none !important;
         border-collapse:collapse;
         td, th {
-            border:none;
+            border:none !important;
         }
         tr td:first-child {
             width: 300px;
