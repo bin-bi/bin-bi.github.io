@@ -60,6 +60,6 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ## Selected Talks & Presentations
 
-<li>*Detecting and Typing Entities via CRF and Deep Neural Networks* | Microsoft Research, 5/2016</li>
-<li>*Modeling a Retweet Network via an Adaptive Bayesian Approach* | WWW, 4/2016</li>
+&bull;*Detecting and Typing Entities via CRF and Deep Neural Networks* | Microsoft Research, 5/2016
+&bull;*Modeling a Retweet Network via an Adaptive Bayesian Approach* | WWW, 4/2016
 {: .talk-table }
