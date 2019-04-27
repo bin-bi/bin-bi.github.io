@@ -37,10 +37,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Research Internships
 
-Microsoft Research Redmond, WA | Ad Click Prediction, Knowledge Graph Mining | 12/2012 - 3/2013,<br/>6/2013 - 9/2013
+Microsoft Research Redmond, WA | Ad Click Prediction, Knowledge Graph Mining | 12/2012 - 3/2013, 6/2013 - 9/2013
 Microsoft Research Cambridge, UK | Machine Learning, Social Network Analysis | 10/2012 - 12/2012
 IBM Research Almaden, CA | Large-scale Data Mining, Social Media Analysis | 7/2012 - 9/2012
 Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
+{: .my-class }
 
 ---
 
