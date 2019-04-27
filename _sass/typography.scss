@@ -65,13 +65,14 @@
         width: 100%;
     }
     .talk-table {
-        border: none !important;
-        border-spacing: 0 !important;
+        border: none;
+        border-spacing: 0;
         border-collapse: collapse;
         td, th {
-            border: none !important;
-            padding: 0 0 50px 0 !important;
-            margin: 0 !important;
+            border: none;
+            padding: 0 0 5px 0;
+            margin: 0;
+            background-color: white;
         }
         tr td:first-child {
             text-align: left;
