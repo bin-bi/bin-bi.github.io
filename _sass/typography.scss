@@ -65,13 +65,13 @@
         width: 100%;
     }
     .talk-table {
-        border: none;
+        border: none !important;
         border-collapse:collapse;
         tr td:first-child {
-            width: 100px;
+            width: 300px;
         }
         tr td:last-child {
-            width: 300px;
+            width: 100px;
         }
     }
 }
