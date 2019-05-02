@@ -54,12 +54,12 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ## Media Coverage
 
-[<img class="icon" src="pdf.png">Inferring the Demographics of Search Users - Social Data Meets Search Queries](http://www2013.w3c.br/proceedings/p131.pdf) by Bin Bi, Milad Shokouhi, Michal Kosinski, and Thore Graepel, Proceedings of ACM International Conference on World Wide Web (WWW), 2013.
-* [Facebook knows your sexuality, race and religion through ‘likes’](https://www.ibtimes.co.uk/facebook-button-provides-information-sexuality-personality-race-444785), **International Business Times**
-* ['Like' curly fries on Facebook? Then you're clever](https://www.telegraph.co.uk/technology/facebook/9923070/Like-curly-fries-on-Facebook-Then-youre-clever.html), **The Telegraph**
-* [How Facebook 'likes' can reveal clues to your sexuality, political beliefs and religion](https://www.dailymail.co.uk/sciencetech/article-2291749/How-Facebook-likes-reveal-clues-sexuality-political-beliefs-religion.html), **Daily Mail**
-* [Facebook 'likes' can reveal your secrets, study finds](https://www.cnn.com/2013/03/11/tech/social-media/facebook-likes-study/index.html), **CNN**
-* [Facebook 'likes' used to predict personality traits, social preferences](https://www.eweek.com/cloud/facebook-likes-used-to-predict-personality-traits-social-preferences), **eWEEK**
+[<img class="icon" src="pdf.png">Inferring the Demographics of Search Users - Social Data Meets Search Queries](http://www2013.w3c.br/proceedings/p131.pdf) by **Bin Bi**, Milad Shokouhi, Michal Kosinski, and Thore Graepel, Proceedings of ACM International Conference on World Wide Web (**WWW**), 2013.
+* [Facebook knows your sexuality, race and religion through ‘likes’](https://www.ibtimes.co.uk/facebook-button-provides-information-sexuality-personality-race-444785), **International Business Times**, 2013
+* ['Like' curly fries on Facebook? Then you're clever](https://www.telegraph.co.uk/technology/facebook/9923070/Like-curly-fries-on-Facebook-Then-youre-clever.html), **The Telegraph**, 2013
+* [How Facebook 'likes' can reveal clues to your sexuality, political beliefs and religion](https://www.dailymail.co.uk/sciencetech/article-2291749/How-Facebook-likes-reveal-clues-sexuality-political-beliefs-religion.html), **Daily Mail**, 2013
+* [Facebook 'likes' can reveal your secrets, study finds](https://www.cnn.com/2013/03/11/tech/social-media/facebook-likes-study/index.html), **CNN**, 2013
+* [Facebook 'likes' used to predict personality traits, social preferences](https://www.eweek.com/cloud/facebook-likes-used-to-predict-personality-traits-social-preferences), **eWEEK**, 2013
 
 ---
 
