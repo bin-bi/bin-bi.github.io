@@ -55,6 +55,7 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 ## Media Coverage
 
 [<img class="icon" src="pdf.png">Inferring the Demographics of Search Users - Social Data Meets Search Queries](http://www2013.w3c.br/proceedings/p131.pdf) by Bin Bi, Milad Shokouhi, Michal Kosinski, and Thore Graepel, Proceedings of ACM International Conference on World Wide Web (WWW), 2013.
+* [Facebook Knows Your Sexuality, Race and Religion Through ‘Likes’](https://www.ibtimes.co.uk/facebook-button-provides-information-sexuality-personality-race-444785), International Business Times
 
 ---
 
