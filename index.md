@@ -62,4 +62,13 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 *Detecting and Typing Entities via CRF and Deep Neural Networks* | Microsoft Research, 5/2016
 *Modeling a Retweet Network via an Adaptive Bayesian Approach* | WWW, 4/2016
+*Learning to Recommend Related Entities to Search Users* | WSDM, 2/2015
+*Bayesian Modeling for Analyzing Online Content and Users* | Yahoo Labs, 1/2015
+*Learning to Discover High-quality Information for Web Users* | Symantec Research Labs, 8/2014
+*Analyzing Topic-specific Authority on Content Sharing Services* | KDD, 8/2014
+*Inferring the Demographics of Search Users - Social Data Meets Search Queries* | WWW, 5/2013
+*Automatically Generating Descriptions for Resources by Tag Modeling* | CIKM, 10/2013
+*Scalable Topic-Specific Influence Analysis on Microblogs* | IBM Almaden Research Center, 9/2012
+*An Effective and Efficient Method for Searching Resources in Social Tagging Systems* | ICDE, 4/2011
+*Collaborative Resource Discovery in Social Tagging Systems* | CIKM, 11/2009
 {: .talk-table }
