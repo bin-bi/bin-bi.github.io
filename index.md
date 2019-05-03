@@ -54,6 +54,8 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ## Media Coverage
 
+<img class="profile-picture" src="uselection.png">
+<img class="profile-picture" src="political-pred.png">
 [<img class="icon" src="pdf.png">Inferring the Demographics of Search Users - Social Data Meets Search Queries](http://www2013.w3c.br/proceedings/p131.pdf) by **Bin Bi**, Milad Shokouhi, Michal Kosinski, and Thore Graepel, Proceedings of ACM International Conference on World Wide Web (**WWW**), 2013.
 * [Facebook knows your sexuality, race and religion through ‘likes’](https://www.ibtimes.co.uk/facebook-button-provides-information-sexuality-personality-race-444785), **International Business Times**, 2013.
 * ['Like' curly fries on Facebook? Then you're clever](https://www.telegraph.co.uk/technology/facebook/9923070/Like-curly-fries-on-Facebook-Then-youre-clever.html), **The Telegraph**, 2013.
