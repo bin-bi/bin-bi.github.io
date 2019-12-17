@@ -37,7 +37,7 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 I have been working with my team to advance the state-of-the-art in the following academic competitions/benchmarks in NLP:
 
 **Rank** | **Solution** | **Competition/Benchmark**
-\#1 | PALM & BayesQA | [MARCO](http://www.msmarco.org/leaders.aspx) (Announcements 1,[2](https://twitter.com/MSMarcoAI/status/1007324430123450369))
+\#1 | PALM & BayesQA | [MARCO](http://www.msmarco.org/leaders.aspx) (Announcements 1, [2](https://twitter.com/MSMarcoAI/status/1007324430123450369))
 \#2 | StructBERT (ALICE) | [GLUE](https://gluebenchmark.com/leaderboard)
 \#2 | RoBERTa + KE | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard)
 \#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer/) (as of 1/5/2018)
