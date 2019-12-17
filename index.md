@@ -12,14 +12,11 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ---
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
----
-
 ## Selected Publications
 
+* **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, and Chenliang Li. *Generating Well-formed Answers by Machine Reading with Stochastic Selector Networks*. Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
+* Wei Wang, **Bin Bi**, Ming Yan, Chen Wu, Zuyi Bao, Jiangnan Xia, Liwei Peng, and Luo Si. *StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding*. Preprint arXiv:1908.04577.
+* **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, Chenliang Li. *Incorporating External Knowledge into Machine Reading for Generative Question Answering*. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (**EMNLP**), 2019.
 * Ming Yan, Jiangnan Xia, Chen Wu, **Bin Bi**, Zhongzhou Zhao, Ji Zhang, Luo Si, Rui Wang, Wei Wang, and Haiqing Chen. *A Deep Cascade Model for Multi-Document Reading Comprehension*. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
 * **Bin Bi**, and Junghoo Cho. *Modeling a Retweet Network via an Adaptive Bayesian Approach*. Proceedings of the 25th International World Wide Web Conference (**WWW**), 2016.
 * **Bin Bi**, Hao Ma, Paul Hsu, Wei Chu, Kuansan Wang, and Junghoo Cho. *Learning to Recommend Related Entities to Search Users*. Proceedings of the 8th ACM International Conference on Web Search and Data Mining (**WSDM**), 2015.
@@ -32,6 +29,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 * Ruirui Li, Ben Kao, **Bin Bi**, Reynold Cheng, and Eric Lo. *DQR: A Probabilistic Approach to Diversified Query Recommendation*. Proceedings of the 21st ACM International Conference on Information and Knowledge Management (**CIKM**), 2012.
 * **Bin Bi**, Sau Dan Lee, Ben Kao, and Reynold Cheng. *CubeLSI: An Effective and Efficient Method for Searching Resources in Social Tagging Systems*. Proceedings of the 27th IEEE International Conference on Data Engineering (**ICDE**), 2011.
 * **Bin Bi**, Lifeng Shang, and Ben Kao. *Collaborative Resource Discovery in Social Tagging Systems*. Proceedings of the 18th ACM International Conference on Information and Knowledge Management (**CIKM**), 2009.
+
+---
+
+## Academic Achievements
+
+I have been working with my team to advance the state-of-the-art in the following academic competitions/benchmarks in NLP:
+**Rank** | **Solution** | **Competition/Benchmark**
+\#1 | PALM & BayesQA | [MARCO](http://www.msmarco.org/leaders.aspx) (Announcements 1,[2](https://twitter.com/MSMarcoAI/status/1007324430123450369))
+\#2 | StructBERT (ALICE) | [GLUE](https://gluebenchmark.com/leaderboard)
+\#2 | RoBERTa + KE | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard)
+\#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer/) (as of 1/5/2018)
+\#1 | AliReader | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
 
 ---
 
