@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Bin Bi
+## About Me
 
 I am a Senior Research Scientist at Alibaba DAMO Academy in Seattle, USA, leading a team towards deep understanding of the semantics of the natural language. Before joining Alibaba in 2018, I have been a Senior Research SDE at Microsoft Research Redmond, USA, since 2015. I received my Ph.D. degree from the Computer Science Department at University of California, Los Angeles (UCLA) in 2015.
 
