@@ -7,11 +7,11 @@ layout: default
 I am a Senior Research Scientist at Alibaba DAMO Academy in Seattle, USA, leading a team towards deep understanding of the semantics of the natural language. Before joining Alibaba in 2018, I have been a Senior Research SDE at Microsoft Research Redmond, USA, since 2015. I received my Ph.D. degree from the Computer Science Department at University of California, Los Angeles (UCLA) in 2015.
 
 My research interests include natural language processing, text mining, information retrieval, and machine learning. I am currently working on various NLP problems, models, algorithms and techniques, including:
-* Pre-training of deep learning models for natural language understanding and generation
-* Machine reading comprehension
-* Open-domain question answering
-* Natural language generation
-* Deep learning NLP for text retrieval, search, and recommendation
+- Pre-training of deep learning models for natural language understanding and generation
+- Machine reading comprehension
+- Open-domain question answering
+- Natural language generation
+- Deep learning NLP for text retrieval, search, and recommendation
 
 ---
 
