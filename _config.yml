@@ -15,7 +15,7 @@ sass:
 
 nav:
  - name: "b.bi@alibaba-inc.com"
-   link: "b.bi@alibaba-inc.com"
+   link: "mailto:b.bi@alibaba-inc.com"
 # - name: "Resume"
 #   link: "resume.pdf"
 # - name: "Contact"
