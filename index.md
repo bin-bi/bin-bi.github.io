@@ -2,20 +2,23 @@
 layout: default
 ---
 
-## About Me
+## Bin Bi
 
-<img class="profile-picture" src="sherlock.jpg">
+I am a Senior Research Scientist at Alibaba DAMO Academy in Seattle, USA, leading a team towards deep understanding of the semantics of the natural language. Before joining Alibaba in 2018, I have been a Senior Research SDE at Microsoft Research Redmond, USA, since 2015. I received my Ph.D. degree from the Computer Science Department at University of California, Los Angeles (UCLA) in 2015.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My research interests include natural language processing, text mining, information retrieval, and machine learning. I am currently working on various NLP problems, models, algorithms and techniques, including:
+* Pre-training of deep learning models for natural language understanding and generation
+* Machine reading comprehension
+* Open-domain question answering
+* Natural language generation
+* Deep learning NLP for text retrieval, search, and recommendation
 
 ---
 
-## Selected Publications
+## Publications
 
 * **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, and Chenliang Li. *Generating Well-formed Answers by Machine Reading with Stochastic Selector Networks*. Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
-* Wei Wang, **Bin Bi**, Ming Yan, Chen Wu, Zuyi Bao, Jiangnan Xia, Liwei Peng, and Luo Si. *StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding*. Preprint arXiv:1908.04577.
+* Wei Wang, **Bin Bi**, Ming Yan, Chen Wu, Zuyi Bao, Jiangnan Xia, Liwei Peng, and Luo Si. *StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding*. Proceedings of the 8th International Conference on Learning Representations (**ICLR**), 2020.
 * **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, Chenliang Li. *Incorporating External Knowledge into Machine Reading for Generative Question Answering*. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (**EMNLP**), 2019.
 * Ming Yan, Jiangnan Xia, Chen Wu, **Bin Bi**, Zhongzhou Zhao, Ji Zhang, Luo Si, Rui Wang, Wei Wang, and Haiqing Chen. *A Deep Cascade Model for Multi-Document Reading Comprehension*. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (**AAAI**), 2019.
 * **Bin Bi**, and Junghoo Cho. *Modeling a Retweet Network via an Adaptive Bayesian Approach*. Proceedings of the 25th International World Wide Web Conference (**WWW**), 2016.
@@ -34,13 +37,13 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Academic Achievements
 
-I have been working with my team to advance the state-of-the-art in the following academic competitions/benchmarks in NLP:
+I have been working with my team to advance the state-of-the-art in the premier academic competitions/benchmarks in NLP:
 
 **Rank** | **Solution** | **Competition/Benchmark**
 \#1 | PALM & BayesQA | [MARCO](http://www.msmarco.org/leaders.aspx) (Announcements 1, [2](https://twitter.com/MSMarcoAI/status/1007324430123450369))
 \#2 | StructBERT (ALICE) | [GLUE](https://gluebenchmark.com/leaderboard)
 \#2 | RoBERTa + KE | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard)
-\#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer/) (as of 1/5/2018)
+\#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018)
 \#1 | AliReader | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
 
 ---
