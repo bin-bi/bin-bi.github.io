@@ -8,17 +8,15 @@ markdown: kramdown
 tracking_id: #
 
 footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "b.bi@alibaba-inc.com"
+   link: "b.bi@alibaba-inc.com"
+# - name: "Resume"
+#   link: "resume.pdf"
+# - name: "Contact"
+#   link: "contact"
