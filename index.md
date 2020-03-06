@@ -41,7 +41,7 @@ I have been working with my team to advance the state-of-the-art in the premier 
 
 **Rank** | **Solution** | **Competition/Benchmark**
 \#1 | PALM & BayesQA | [MARCO](http://www.msmarco.org/leaders.aspx) ([Announcement](https://twitter.com/MSMarcoAI/status/1007324430123450369))
-\#2 | StructBERT (ALICE) | [GLUE](https://gluebenchmark.com/leaderboard)
+\#1 | StructBERT | [GLUE](https://gluebenchmark.com/leaderboard)
 \#2 | RoBERTa + KE | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard)
 \#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018)
 \#1 | AliReader | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
