@@ -79,6 +79,7 @@ Microsoft Research Asia | Image Retrieval, Computer Vision | 11/2007 - 6/2008
 
 ## Selected Talks & Presentations
 
+*Generating Well-formed Answers by Machine Reading with Stochastic Selector Networks* | AAAI, 2/2020
 *Open-domain Question Answering with Machine Reading Comprehension* | Microsoft Research, 7/2017
 *Detecting and Typing Entities via CRF and Deep Neural Networks* | Microsoft Research, 5/2016
 *Modeling a Retweet Network via an Adaptive Bayesian Approach* | WWW, 4/2016
