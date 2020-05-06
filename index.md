@@ -17,6 +17,7 @@ My research interests include natural language processing, text mining, informat
 
 ## Publications
 
+* **Bin Bi**, Chenliang Li, Chen Wu, Ming Yan, and Wei Wang. *PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation*. Preprint, arXiv:2004.07159. (**Rank \#1 @ [MARCO NLG Leaderboard](https://microsoft.github.io/msmarco)**)
 * **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, and Chenliang Li. *Generating Well-formed Answers by Machine Reading with Stochastic Selector Networks*. Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
 * Wei Wang, **Bin Bi**, Ming Yan, Chen Wu, Zuyi Bao, Jiangnan Xia, Liwei Peng, and Luo Si. *StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding*. Proceedings of the 8th International Conference on Learning Representations (**ICLR**), 2020. (**Rank \#1 @ [GLUE Leaderboard](https://gluebenchmark.com/leaderboard)**)
 * **Bin Bi**, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, Chenliang Li. *Incorporating External Knowledge into Machine Reading for Generative Question Answering*. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (**EMNLP**), 2019.
