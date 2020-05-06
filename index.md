@@ -40,12 +40,12 @@ My research interests include natural language processing, text mining, informat
 
 I have been working with my team to advance the state-of-the-art in the premier academic competitions/benchmarks in NLP:
 
-**Rank** | **Solution** | **Competition/Benchmark**
-\#1 | PALM & BayesQA | [MARCO](https://microsoft.github.io/msmarco) ([Announcement](https://twitter.com/MSMarcoAI/status/1007324430123450369))
-\#1 | StructBERT | [GLUE](https://gluebenchmark.com/leaderboard)
-\#2 | RoBERTa + KE | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard)
-\#1 | SLQA+ | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018)
-\#1 | AliReader | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader)
+**Rank** | **Competition/Benchmark** | **Solution**
+\#1 | [MARCO](https://microsoft.github.io/msmarco) ([Announcement](https://twitter.com/MSMarcoAI/status/1007324430123450369)) | PALM & BayesQA
+\#1 | [GLUE](https://gluebenchmark.com/leaderboard) | StructBERT
+\#2 | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard) | RoBERTa + KE
+\#1 | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018) | SLQA+
+\#1 | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader) | AliReader
 
 ---
 
