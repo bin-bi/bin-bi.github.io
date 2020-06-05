@@ -46,6 +46,8 @@ I have been working with my team to advance the state-of-the-art in the premier 
 \#2 | [CommonsenseQA](https://www.tau-nlp.org/csqa-leaderboard) | RoBERTa + KE
 \#1 | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018) | SLQA+
 \#1 | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader) | AliReader
+\#1 | [VQA Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/514/leaderboard/1386) | StructVBERT
+\#1 | [DocVQA](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) | Structural LM
 
 ---
 
