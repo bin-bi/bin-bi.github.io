@@ -17,6 +17,10 @@ My research interests include natural language processing, text mining, informat
 
 ## Publications
 
+* Chenliang Li, **Bin Bi**, Ming Yan, Wei Wang, Songfang Huang, Fei Huang, and Luo Si. *StructuralLM: Structural Pre-training for Form Understanding*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
+* Haiyang Xu, Ming Yan, Chenliang Li, **Bin Bi**, Songfang Huang, Wenming Xiao, and Fei Huang. *E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
+* Fuli Luo, Wei Wang, Jiahao Liu, Yijia Liu, **Bin Bi**, Songfang Huang, Fei Huang, and Luo Si. *VECO: Variable and Flexible Cross-lingual Pre-training for Language Understanding and Generation*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
+* Chenliang Li, **Bin Bi**, Ming Yan, Wei Wang, and Songfang Huang. *Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
 * Ming Yan, Chenliang Li, **Bin Bi**, Wei Wang, and Songfang Huang. *A Unified Pretraining Framework for Passage Ranking and Expansion*. Proceedings of the 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
 * **Bin Bi**, Chenliang Li, Chen Wu, Ming Yan, Wei Wang, Songfang Huang, Fei Huang, and Luo Si. *PALM: Pre-training an Autoencoding & Autoregressive Language Model for Context-conditioned Generation*. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020. (**Rank \#1 @ [MARCO NLG Leaderboard](https://microsoft.github.io/msmarco)**)
 * Yao Fu, Chuanqi Tan, **Bin Bi**, Mosha Chen, Yansong Feng, and Alexander Rush. *Latent Template Induction with Gumbel-CRFs*. Proceedings of the 34th International Conference on Neural Information Processing Systems (**NIPS**), 2020.
