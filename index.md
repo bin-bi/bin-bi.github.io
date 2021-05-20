@@ -17,7 +17,7 @@ My research interests include natural language processing, text mining, informat
 
 ## Publications
 
-* Chenliang Li, **Bin Bi**, Ming Yan, Wei Wang, Songfang Huang, Fei Huang, and Luo Si. *StructuralLM: Structural Pre-training for Form Understanding*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
+* Chenliang Li, **Bin Bi**, Ming Yan, Wei Wang, Songfang Huang, Fei Huang, and Luo Si. *StructuralLM: Structural Pre-training for Form Understanding*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021. (**Rank \#1 as of 8/16/2020 @ [DocVQA Leaderboard](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1)**)
 * Haiyang Xu, Ming Yan, Chenliang Li, **Bin Bi**, Songfang Huang, Wenming Xiao, and Fei Huang. *E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
 * Fuli Luo, Wei Wang, Jiahao Liu, Yijia Liu, **Bin Bi**, Songfang Huang, Fei Huang, and Luo Si. *VECO: Variable and Flexible Cross-lingual Pre-training for Language Understanding and Generation*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
 * Chenliang Li, **Bin Bi**, Ming Yan, Wei Wang, and Songfang Huang. *Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction*. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021.
@@ -53,7 +53,7 @@ I have been working with my team to advance the state-of-the-art in the premier 
 \#1 | [SQuAD v1.1](https://rajpurkar.github.io/SQuAD-explorer) (as of 11/1/2018) | SLQA+
 \#1 | [DuReader](https://ai.baidu.com/broad/leaderboard?dataset=dureader) | AliReader
 \#1 | [VQA Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/514/leaderboard/1386) | StructVBERT
-\#2 | [DocVQA](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) | Structural LM
+\#2 | [DocVQA](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=1) (as of 8/16/2020) | Structural LM
 
 ---
 
