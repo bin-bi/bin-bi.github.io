@@ -8,6 +8,7 @@ I am a Staff Research Scientist and Manager at Alibaba DAMO Academy in Seattle, 
 
 My research interests include natural language processing, text mining, information retrieval, and machine learning. I am currently working on various NLP problems, models, algorithms and techniques, including:\\
 ◎ Pre-training of deep learning models for natural language understanding and generation\\
+◎ Cross-modal modeling; Vision-language pre-training; Cross-lingual modeling\\
 ◎ Machine reading comprehension\\
 ◎ Open-domain question answering\\
 ◎ Natural language generation\\
